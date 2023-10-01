@@ -4,13 +4,6 @@
 
 This template provides a starting point for building a blog using Next.js, Tailwind CSS, TypeScript, and integrating with the Hashnode API for content management. It aims to offer a clean and organized structure to kickstart your blogging journey.
 
-# Tech stack
-
-- **Next.js**: A React framework for building fast and production-ready web applications.
-- **Tailwind CSS**: A utility-first CSS framework that allows for rapid UI development.
-- **TypeScript**: A superset of JavaScript that adds optional static types, enhancing code quality and developer experience.
-- **Hashnode API Integration**: Fetch and display your blog posts from your Hashnode account.
-
 # Getting Started
 
 ### Prerequisites
@@ -38,7 +31,7 @@ cd nextjs-hashnode-blog
 yarn
 ```
 
-5. Start the development server:
+4. Start the development server:
 
 ```bash
 yarn dev
@@ -64,7 +57,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 # License
 
-This project is open-source and available under the [MIT License](https://chat.openai.com/c/LICENSE).
+This project is open-source and available under the [MIT License](/LICENSE).
 
 # Acknowledgements
 
